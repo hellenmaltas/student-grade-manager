@@ -17,7 +17,7 @@ consolidação dos conhecimentos fundamentais em Python.
 
 
 
- #▶️ Exemplo de Execução
+ # ▶️ Exemplo de Execução
 
 ```
 How many students do you want add? (From 2 to 7): 2
