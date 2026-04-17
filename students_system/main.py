@@ -34,10 +34,10 @@ for i in range(number_students):
     average = calculate_average(grade1, grade2)
 
     student = {
-        "name":name,
-        "grade1":grade1,
-        "grade2":grade2,
-        "average":average
+        "name": name,
+        "grade1": grade1,
+        "grade2": grade2,
+        "average": average
     }
 
     students.append(student)
